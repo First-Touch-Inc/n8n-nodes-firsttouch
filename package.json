@@ -13,6 +13,7 @@
                  ],
     "author":  {
                    "name":  "FirstTouch",
+                   "email":  "jared@firsttouch.com",
                    "url":  "https://www.firsttouch.com"
                },
     "repository":  {
