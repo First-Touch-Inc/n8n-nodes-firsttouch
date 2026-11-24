@@ -1,0 +1,5 @@
+dist
+node_modules
+
+.local-n8n-owner.txt
+.dev.log
