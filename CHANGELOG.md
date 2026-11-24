@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Placeholders follow n8n's UX guidelines (e.g. examples) and the InMail action label reads correctly.
+
 ## 0.1.0
 
 - FirstTouch Trigger: Connection Accepted, New LinkedIn Reply, New Social Engager (polling, each event fires once).

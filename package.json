@@ -1,6 +1,6 @@
 {
     "name":  "n8n-nodes-firsttouch",
-    "version":  "0.1.0",
+    "version":  "0.1.1",
     "description":  "FirstTouch nodes for n8n: LinkedIn replies, accepted connections and post engagers as triggers; connection checks, messages, InMails, connection requests and flow enrollment as actions, with human approval on by default.",
     "license":  "MIT",
     "homepage":  "https://github.com/First-Touch-Inc/n8n-nodes-firsttouch#readme",
