@@ -31,7 +31,8 @@
                     "test":  "n8n-node build \u0026\u0026 node --test test/trigger.test.js"
                 },
     "files":  [
-                  "dist"
+                  "dist",
+                  "!dist/tsconfig.tsbuildinfo"
               ],
     "n8n":  {
                 "n8nNodesApiVersion":  1,
@@ -53,5 +54,9 @@
                         },
     "peerDependencies":  {
                              "n8n-workflow":  "*"
-                         }
+                         },
+    "publishConfig":  {
+                          "access":  "public",
+                          "provenance":  true
+                      }
 }
